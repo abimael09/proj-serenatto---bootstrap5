@@ -1,5 +1,4 @@
-<h1>Serenatto</h1>
-<h4>Café & Bistrô</h4>
+<h1>Serenatto: Café & Bistrô</h1>
 
 <h2>Sobre</h2>
 
